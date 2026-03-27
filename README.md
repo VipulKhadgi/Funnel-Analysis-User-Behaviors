@@ -1,5 +1,5 @@
 # Funnel Analysis User Behaviors & Conversion Prediction
-User Behavior Funnel Analysis using Python
+This project focuses on analyzing user behavior across a multi-step funnel and identifying key drop-off points that impact conversion rates. The objective is to understand why a large number of users engage with the platform but only a small percentage complete the final conversion (purchase/subscription).
 
 ## 📌 Project Overview
 
